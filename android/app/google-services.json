@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "149125430060",
+    "firebase_url": "https://car-demo-e4c68.firebaseio.com",
+    "project_id": "car-demo-e4c68",
+    "storage_bucket": "car-demo-e4c68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149125430060:android:c6df385d6eb5ecdaa50a89",
+        "android_client_info": {
+          "package_name": "com.example.car_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149125430060-hf1ekj1ok8cighgu844hptv4u0rh06fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-0hGIUE5gNInvLIphpYasanQcBgLrTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149125430060-hf1ekj1ok8cighgu844hptv4u0rh06fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
